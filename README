@@ -1,0 +1,18 @@
+ECE225A Final Project 
+Darren Li, A59019163
+You-Ting Huang, A59019068
+
+Project Title: Statistical Analysis of Housing Affordability and Occupational Wages in the US
+
+Dataset: USA HOUSE PRICES (kaggle.com), May 2022 State Occupational Employment and Wage Estimates (bls.gov)
+
+1.	Expectation and Variance in Housing and Wage Data: This section will analyze the mean and variance in housing prices and wages across different occupations and states to understand their distribution and central tendencies.
+
+2.	Correlation and Covariance between Wages and Housing Prices: The project will investigate the relationship between wages and housing prices through statistical measures of correlation and covariance, exploring their interaction across different states.
+
+3.	Bivariate Analysis of Housing Prices and Wages: A bivariate analysis will be conducted to understand the joint behavior and interaction between housing prices and wages, using bivariate distributions.
+
+4.	Modeling Housing Prices with Distribution Families: This part involves assessing how housing prices in various regions align with statistical distributions, providing foundational insights into the behavior of the housing market.
+
+5.	Emphasized Analysis - Probability Analysis of Housing Affordability Based on Occupation: A detailed analysis using conditional probability and Bayes' rule will be conducted. This will involve calculating the probability of individuals in various occupations being able to afford housing in their region. The analysis will consider the distribution of housing prices, average wages for different occupations, and regional economic factors. The goal is to create a comprehensive picture of housing affordability, highlighting occupations and regions where affordability is a significant issue and exploring the impact of changes in wages or housing prices on these probabilities.
+
