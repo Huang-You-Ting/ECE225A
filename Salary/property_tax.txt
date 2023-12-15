@@ -1,0 +1,51 @@
+Alabama, 0.37
+Alaska, 0.97
+Arizona, 0.39
+Arkansas, 0.53
+California, 0.66
+Colorado, 0.40
+Connecticut, 1.57
+Delaware, 0.48
+District of Columbia, 0.57
+Florida, 0.67
+Georgia, 0.70
+Hawaii, 0.30
+Idaho, 0.46
+Illinois, 1.78
+Indiana, 0.74
+Iowa, 1.25
+Kansas, 1.15
+Kentucky, 0.60
+Louisiana, 0.53
+Maine, 0.89
+Maryland, 0.76
+Massachusetts, 0.94
+Michigan, 1.06
+Minnesota, 0.90
+Mississippi, 0.55
+Missouri, 0.82
+Montana, 0.65
+Nebraska, 1.36
+Nevada, 0.44
+New Hampshire, 1.28
+New Jersey, 1.79
+New Mexico, 0.60
+New York, 1.26
+North Carolina, 0.52
+North Dakota, 0.90
+Ohio, 1.27
+Oklahoma, 0.76
+Oregon, 0.78
+Pennsylvania, 1.29
+Rhode Island, 1.01
+South Carolina, 0.46
+South Dakota, 1.03
+Tennessee, 0.42
+Texas, 1.25
+Utah, 0.44
+Vermont, 1.43
+Virginia, 0.72
+Washington, 0.70
+West Virginia, 0.47
+Wisconsin, 1.15
+Wyoming, 0.64
