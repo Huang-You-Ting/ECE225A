@@ -1,0 +1,194 @@
+State,Rates,Bracket
+Alabama,0.02,0
+Alabama,0.04,500
+Alabama,0.05,3000
+Alaska,0,0
+Arizona,0.0255,0
+Arizona,0.0298,28653
+Arkansas,0.02,0
+Arkansas,0.04,4300
+Arkansas,0.049,8500
+California,0.01,0
+California,0.02,10099
+California,0.04,23942
+California,0.06,37788
+California,0.08,52455
+California,0.093,66295
+California,0.103,338639
+California,0.113,406364
+California,0.123,677275
+California,0.133,1000000
+Colorado,0.044,0
+Connecticut,0.03,0
+Connecticut,0.05,10000
+Connecticut,0.055,50000
+Connecticut,0.06,100000
+Connecticut,0.065,200000
+Connecticut,0.069,250000
+Connecticut,0.0699,500000
+Delaware,0.022,2000
+Delaware,0.039,5000
+Delaware,0.048,10000
+Delaware,0.052,20000
+Delaware,0.0555,25000
+Delaware,0.066,60000
+Florida,0,0
+Georgia,0.01,0
+Georgia,0.02,750
+Georgia,0.03,2250
+Georgia,0.04,3750
+Georgia,0.05,5250
+Georgia,0.0575,7000
+Hawaii,0.014,0
+Hawaii,0.032,2400
+Hawaii,0.055,4800
+Hawaii,0.064,9600
+Hawaii,0.068,14400
+Hawaii,0.072,19200
+Hawaii,0.076,24000
+Hawaii,0.079,36000
+Hawaii,0.0825,48000
+Hawaii,0.09,150000
+Hawaii,0.1,175000
+Hawaii,0.11,200000
+Idaho,0.01,0
+Idaho,0.03,1662
+Idaho,0.045,4987
+Idaho,0.06,8311
+Illinois,0.0495,0
+Indiana,0.0323,0
+Iowa,0.0033,0
+Iowa,0.0067,1743
+Iowa,0.0225,3486
+Iowa,0.0414,6972
+Iowa,0.0563,15687
+Iowa,0.0596,26145
+Iowa,0.0625,34860
+Iowa,0.0744,52290
+Iowa,0.0853,78435
+Kansas,0.031,0
+Kansas,0.0525,15000
+Kansas,0.057,30000
+Kentucky,0.05,0
+Louisiana,0.0185,0
+Louisiana,0.035,12500
+Louisiana,0.0425,50000
+Maine,0.058,0
+Maine,0.0675,23000
+Maine,0.0715,54450
+Maryland,0.02,0
+Maryland,0.03,1000
+Maryland,0.04,2000
+Maryland,0.0475,3000
+Maryland,0.05,100000
+Maryland,0.0525,125000
+Maryland,0.055,150000
+Maryland,0.0575,250000
+Massachusetts,0.05,0
+Michigan,0.0425,0
+Minnesota,0.0535,0
+Minnesota,0.068,28080
+Minnesota,0.0785,92230
+Minnesota,0.0985,171220
+Missouri,0.04,5000
+Missouri,0.05,10000
+Mo.,0.015,111
+Mo.,0.02,1121
+Mo.,0.025,2242
+Mo.,0.03,3363
+Mo.,0.035,4484
+Mo.,0.04,5605
+Mo.,0.045,6726
+Mo.,0.05,7847
+Mo.,0.053,8968
+Montana,0.01,0
+Montana,0.02,3300
+Montana,0.03,5800
+Montana,0.04,8900
+Montana,0.05,12000
+Montana,0.06,15400
+Montana,0.0675,19800
+Nebraska,0.0246,0
+Nebraska,0.0351,3440
+Nebraska,0.0501,20590
+Nebraska,0.0684,33180
+Nevada,0,0
+New Hampshire,0.05,0
+New Jersey,0.014,0
+New Jersey,0.0175,20000
+New Jersey,0.035,35000
+New Jersey,0.0553,40000
+New Jersey,0.0637,75000
+New Jersey,0.0897,500000
+New Jersey,0.1075,1000000
+New Mexico,0.017,0
+New Mexico,0.032,5500
+New Mexico,0.047,11000
+New Mexico,0.049,16000
+New Mexico,0.059,210000
+New York,0.04,0
+New York,0.045,8500
+New York,0.0525,11700
+New York,0.0585,13900
+New York,0.0625,80650
+New York,0.0685,215400
+New York,0.0965,1077550
+New York,0.103,5000000
+New York,0.109,25000000
+North Carolina,0.0499,0
+North Dakota,0.011,0
+North Dakota,0.0204,41775
+North Dakota,0.0227,101050
+North Dakota,0.0264,210825
+North Dakota,0.029,458350
+Ohio,0.0277,26050
+Ohio,0.0323,46100
+Ohio,0.0369,92150
+Ohio,0.0399,115300
+Oklahoma,0.0025,0
+Oklahoma,0.0075,1000
+Oklahoma,0.0175,2500
+Oklahoma,0.0275,3750
+Oklahoma,0.0375,4900
+Oklahoma,0.0475,7200
+Oregon,0.0475,0
+Oregon,0.0675,3750
+Oregon,0.0875,9450
+Oregon,0.099,125000
+Pennsylvania,0.0307,0
+Rhode Island,0.0375,0
+Rhode Island,0.0475,68200
+Rhode Island,0.0599,155050
+South Carolina,0,0
+South Carolina,0.03,3200
+South Carolina,0.065,16040
+South Dakota,0,0
+Tennessee,0,0
+Texas,0,0
+Utah,0.0485,0
+Vermont,0.0335,0
+Vermont,0.066,42150
+Vermont,0.076,102200
+Vermont,0.0875,213150
+Virginia,0.02,0
+Virginia,0.03,3000
+Virginia,0.05,5000
+Virginia,0.0575,17000
+Washington,0.07,0
+West Virginia,0.03,0
+West Virginia,0.04,10000
+West Virginia,0.045,25000
+West Virginia,0.06,40000
+West Virginia,0.065,60000
+Wisconsin,0.0354,0
+Wisconsin,0.0465,12760
+Wisconsin,0.053,25520
+Wisconsin,0.0765,280950
+Wyoming,0,0
+District of Columbia,0.04,0
+District of Columbia,0.06,10000
+District of Columbia,0.065,40000
+District of Columbia,0.085,60000
+District of Columbia,0.0925,250000
+District of Columbia,0.0975,500000
+District of Columbia,0.1075,1000000
